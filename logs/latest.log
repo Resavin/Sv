@@ -1,0 +1,62 @@
+[14:25:08] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:25:08] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[14:25:09] [Worker-Main-1/INFO]: Loaded 7 recipes
+[14:25:11] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[14:25:11] [Server thread/INFO]: Loading properties
+[14:25:11] [Server thread/INFO]: This server is running Paper version git-Paper-386 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: e22a1a9)
+[14:25:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:25:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:25:11] [Server thread/INFO]: Default game type: SURVIVAL
+[14:25:11] [Server thread/INFO]: Generating keypair
+[14:25:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:25:11] [Server thread/INFO]: Using epoll channel type
+[14:25:11] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[14:25:11] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[14:25:12] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.1.6
+[14:25:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:25:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:25:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:25:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:25:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:25:12] [Server thread/INFO]: Preparing level "world"
+[14:25:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:25:13] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:13] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:13] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:14] [Server thread/INFO]: Time elapsed: 1401 ms
+[14:25:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:25:14] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:14] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:15] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:15] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:16] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:16] [Server thread/INFO]: Time elapsed: 2056 ms
+[14:25:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:25:16] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:16] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:16] [Server thread/INFO]: Time elapsed: 787 ms
+[14:25:16] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.1.6
+[14:25:17] [Server thread/INFO]: [SkinsRestorer] Using PaperSkinRefresher
+[14:25:17] [Server thread/INFO]: [SkinsRestorer] Detected Minecraft v1_17_R1, using PaperSkinRefresher.
+[14:25:17] [Server thread/INFO]: [SkinsRestorer] [ACF] Enabled Asynchronous Tab Completion Support!
+[14:25:19] [Server thread/INFO]: Running delayed init tasks
+[14:25:19] [Server thread/INFO]: Done (8.342s)! For help, type "help"
+[14:25:19] [Server thread/INFO]: Timings Reset
+[14:25:24] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:25:24] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[14:25:24] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[14:25:24] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[14:25:24] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[14:25:24] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[14:25:24] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:25:24] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.1.6
+[14:25:24] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     This is the latest version!
+[14:25:24] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:38:27] [User Authenticator #1/INFO]: UUID of player HansChristianA is d51aee21-abff-3391-a5d2-6bb565a615a0
+[14:38:27] [Server thread/INFO]: HansChristianA joined the game
+[14:38:27] [Server thread/INFO]: HansChristianA[/62.148.157.227:37220] logged in with entity id 1640 at ([world]-25.327196180322545, 64.0, -235.28828382808456)
+[14:51:25] [Server thread/INFO]: HansChristianA has made the advancement [Ice Bucket Challenge]
+[14:52:49] [Server thread/INFO]: HansChristianA has made the advancement [Into Fire]
+[15:00:52] [Server thread/INFO]: HansChristianA has reached the goal [You Need a Mint]
+[15:21:39] [Server thread/INFO]: HansChristianA lost connection: Disconnected
+[15:21:39] [Server thread/INFO]: HansChristianA left the game
