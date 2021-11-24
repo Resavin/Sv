@@ -369,3 +369,30 @@ crontab -e
 ./autosave.sh 
 crontab -e
 exit
+./autosave.sh
+vim autosave.sh 
+./autosave.sh 
+vim autosave.sh 
+./autosave.sh 
+git pull
+git checkout --orphan latest_branch
+git add -A
+git commit -am "tatatutu"
+git branch -D main
+git branch -m main
+git push -f origin main
+vim autosave.sh
+ls
+chmod +x autosave.sh
+vim autosave.sh 
+./autosave.sh 
+vim autosave.sh
+./autosave.sh 
+vim .gitignore
+git checkout --orphan latest_branch
+git add -A
+git commit -am "tatatutu"
+git branch -D main
+git branch -m main
+git push -f origin main
+exit
