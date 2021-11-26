@@ -3,3 +3,5 @@
 [17:08:38] [Server thread/INFO]: Чузов Михаил[/94.28.207.135:57834] logged in with entity id 23915 at ([world]-16.17520988148261, 64.0, -263.9430416002818)
 [17:32:59] [Server thread/INFO]: Чузов Михаил was blown up by Creeper
 [17:36:02] [Server thread/INFO]: Named entity EntityCow['Пчела'/1125, uuid='8db66edf-ed98-4f91-afda-1351a82559df', l='ServerLevel[world]', x=41.93, y=65.00, z=-273.93, cpos=[2, -18], tl=9483652, v=true, rR=null] died: Пчела was slain by Чузов Михаил
+[18:31:23] [Server thread/INFO]: Чузов Михаил lost connection: Disconnected
+[18:31:23] [Server thread/INFO]: Чузов Михаил left the game
