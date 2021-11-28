@@ -1549,15 +1549,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2021-11-24 15:06:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2021-11-24 15:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2021-11-24 15:06:25 +0000"
     },
     "done": true
   },
