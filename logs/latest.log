@@ -1,20 +1,5 @@
-[15:11:19] [Craft Scheduler Thread - 201 - SkinsRestorer/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
-[15:11:19] [Craft Scheduler Thread - 201 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[15:11:19] [Craft Scheduler Thread - 201 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[15:11:19] [Craft Scheduler Thread - 201 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[15:11:19] [Craft Scheduler Thread - 201 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
-[15:11:19] [Craft Scheduler Thread - 201 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[15:11:19] [Craft Scheduler Thread - 201 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[15:11:19] [Craft Scheduler Thread - 201 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[15:11:19] [Craft Scheduler Thread - 201 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.1.6
-[15:11:19] [Craft Scheduler Thread - 201 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 14.1.7
-[15:11:19] [Craft Scheduler Thread - 201 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
-[15:11:19] [Craft Scheduler Thread - 201 - SkinsRestorer/INFO]: [SkinsRestorer]     Update downloaded successfully, it will be applied on the next restart.
-[15:11:19] [Craft Scheduler Thread - 201 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[15:11:20] [Craft Scheduler Thread - 202 - SkinsRestorer/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as plugins/update/SkinsRestorer.jar
-[15:23:15] [User Authenticator #7/INFO]: UUID of player CenasTheBest is 001e12be-1fd0-3585-bf42-0f0ced528f25
-[15:23:15] [Server thread/INFO]: CenasTheBest joined the game
-[15:23:15] [Server thread/INFO]: CenasTheBest[/154.21.20.171:54525] logged in with entity id 55426 at ([world]-12.5, 64.0, -242.5)
-[15:23:16] [Server thread/INFO]: CenasTheBest issued server command: /plugins
-[15:23:23] [Server thread/INFO]: CenasTheBest lost connection: Disconnected
-[15:23:23] [Server thread/INFO]: CenasTheBest left the game
+[13:33:38] [User Authenticator #8/INFO]: UUID of player quarry is 35b4ecb6-4757-35b7-ad40-75375a79a167
+[13:33:38] [Server thread/INFO]: quarry joined the game
+[13:33:38] [Server thread/INFO]: quarry[/81.25.56.211:45698] logged in with entity id 55469 at ([world]-16.5, 64.0, -241.5)
+[13:33:38] [Server thread/INFO]: quarry lost connection: Disconnected
+[13:33:38] [Server thread/INFO]: quarry left the game
