@@ -1,5 +1,6 @@
-[13:33:38] [User Authenticator #8/INFO]: UUID of player quarry is 35b4ecb6-4757-35b7-ad40-75375a79a167
-[13:33:38] [Server thread/INFO]: quarry joined the game
-[13:33:38] [Server thread/INFO]: quarry[/81.25.56.211:45698] logged in with entity id 55469 at ([world]-16.5, 64.0, -241.5)
-[13:33:38] [Server thread/INFO]: quarry lost connection: Disconnected
-[13:33:38] [Server thread/INFO]: quarry left the game
+[15:41:48] [User Authenticator #9/INFO]: UUID of player slushee11 is d6c24d07-f1a8-3ac7-89ca-0955419b0e10
+[15:41:48] [Server thread/INFO]: slushee11 joined the game
+[15:41:48] [Server thread/INFO]: slushee11[/184.170.252.161:23678] logged in with entity id 55470 at ([world]-9.5, 64.0, -240.5)
+[15:41:48] [Server thread/INFO]: slushee11 issued server command: /plugins
+[15:41:56] [Server thread/INFO]: slushee11 lost connection: Disconnected
+[15:41:56] [Server thread/INFO]: slushee11 left the game
