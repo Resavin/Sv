@@ -1,24 +1,17 @@
-[12:54:26] [User Authenticator #16/INFO]: UUID of player HE_bruh2 is 3b5e51d8-b979-30de-a99b-8b1ddd855c18
-[12:54:26] [Server thread/INFO]: HE_bruh2 joined the game
-[12:54:26] [Server thread/INFO]: HE_bruh2[/95.139.194.207:57972] logged in with entity id 65865 at ([world]-30.703209601756427, 64.0, -237.8949435386573)
-[12:54:41] [Server thread/INFO]: HE_bruh2 suffocated in a wall
-[12:54:51] [Server thread/INFO]: HE_bruh2 tried to swim in lava
-[12:55:05] [Server thread/WARN]: HE_bruh2 was kicked for floating too long!
-[12:55:05] [Server thread/INFO]: HE_bruh2 lost connection: Flying is not enabled on this server
-[12:55:05] [Server thread/INFO]: HE_bruh2 left the game
-[12:55:06] [User Authenticator #16/INFO]: UUID of player HE_bruh2 is 3b5e51d8-b979-30de-a99b-8b1ddd855c18
-[12:55:07] [Server thread/INFO]: HE_bruh2 joined the game
-[12:55:07] [Server thread/INFO]: HE_bruh2[/95.139.194.207:58006] logged in with entity id 65972 at ([world]-9.445092563108465, 92.15860569840459, -241.6191757403986)
-[13:02:11] [Server thread/INFO]: HE_bruh2 lost connection: Sent too many packets
-[13:02:11] [Server thread/INFO]: HE_bruh2 left the game
-[13:02:14] [User Authenticator #17/INFO]: UUID of player HE_bruh2 is 3b5e51d8-b979-30de-a99b-8b1ddd855c18
-[13:02:14] [Server thread/INFO]: HE_bruh2 joined the game
-[13:02:14] [Server thread/INFO]: HE_bruh2[/95.139.194.207:58094] logged in with entity id 67109 at ([world]-24.699765033308843, 84.0, -249.69999998807907)
-[13:02:18] [Server thread/INFO]: HE_bruh2 lost connection: Sent too many packets
-[13:02:18] [Server thread/INFO]: HE_bruh2 left the game
-[13:02:19] [User Authenticator #17/INFO]: UUID of player HE_bruh2 is 3b5e51d8-b979-30de-a99b-8b1ddd855c18
-[13:02:19] [Server thread/INFO]: HE_bruh2 joined the game
-[13:02:19] [Server thread/INFO]: HE_bruh2[/95.139.194.207:58100] logged in with entity id 67114 at ([world]-24.699765033308843, 84.0, -249.69999998807907)
-[13:04:34] [Server thread/WARN]: HE_bruh2 moved wrongly!
-[13:06:24] [Server thread/INFO]: HE_bruh2 lost connection: Disconnected
-[13:06:24] [Server thread/INFO]: HE_bruh2 left the game
+[23:50:39] [User Authenticator #18/INFO]: UUID of player Mxngxxse is 4b0b6122-5fa7-303f-a37d-1af997b12fe2
+[23:50:39] [Server thread/INFO]: Mxngxxse joined the game
+[23:50:39] [Server thread/INFO]: Mxngxxse[/13.40.33.142:34498] logged in with entity id 67894 at ([world]34.764376688176725, 99.5932085557069, -255.40597563946292)
+[23:50:55] [User Authenticator #18/INFO]: UUID of player NuttyNinny is 093b8865-f670-3996-b1a5-029ef390f7a4
+[23:50:55] [Server thread/INFO]: NuttyNinny joined the game
+[23:50:55] [Server thread/INFO]: NuttyNinny[/13.40.33.142:35012] logged in with entity id 68030 at ([world]28.131973512125263, 65.0, -251.01339534103852)
+[23:51:17] [User Authenticator #18/INFO]: UUID of player Catbutts_ is 60c0e2a2-dc6d-32fb-b8b4-f851ad01aa19
+[23:51:18] [Server thread/INFO]: Catbutts_ joined the game
+[23:51:18] [Server thread/INFO]: Catbutts_[/13.40.33.142:35016] logged in with entity id 68100 at ([world]-12.119666185701906, 64.0, -232.774655853019)
+[23:51:25] [Server thread/WARN]: Catbutts_ moved too quickly! 8.071214488083456E-4,-21.0313,-0.09743657339663514
+[23:51:37] [Server thread/INFO]: Catbutts_ was shot by Skeleton
+[23:51:44] [Server thread/INFO]: Mxngxxse lost connection: Disconnected
+[23:51:44] [Server thread/INFO]: Mxngxxse left the game
+[23:52:10] [Server thread/INFO]: Catbutts_ lost connection: Disconnected
+[23:52:10] [Server thread/INFO]: Catbutts_ left the game
+[23:52:39] [Server thread/INFO]: NuttyNinny lost connection: Disconnected
+[23:52:39] [Server thread/INFO]: NuttyNinny left the game

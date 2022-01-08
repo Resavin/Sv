@@ -445,6 +445,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2022-01-07 23:51:42 +0000",
       "minecraft:dark_forest": "2022-01-05 20:48:00 +0000",
       "minecraft:plains": "2022-01-05 20:37:56 +0000"
     },
