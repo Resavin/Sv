@@ -1,7 +1,29 @@
-[11:59:19] [User Authenticator #19/INFO]: UUID of player FermatSleep is 89f55665-09ef-34f8-841c-6aa4cf7d6b9b
-[11:59:19] [Server thread/INFO]: FermatSleep joined the game
-[11:59:19] [Server thread/INFO]: FermatSleep[/195.154.52.77:43898] logged in with entity id 69392 at ([world]-8.5, 64.0, -239.5)
-[11:59:20] [Async Chat Thread - #1/INFO]: <FermatSleep> Reference Class Name: foo
-
-[11:59:22] [Server thread/INFO]: FermatSleep lost connection: Disconnected
-[11:59:22] [Server thread/INFO]: FermatSleep left the game
+[18:49:54] [User Authenticator #20/INFO]: UUID of player HE_bruh2 is 3b5e51d8-b979-30de-a99b-8b1ddd855c18
+[18:49:54] [Server thread/INFO]: HE_bruh2 joined the game
+[18:49:54] [Server thread/INFO]: HE_bruh2[/212.35.186.3:5422] logged in with entity id 70407 at ([world]-18.66088464325042, 73.0, -256.900360092701)
+[18:55:07] [Server thread/INFO]: HE_bruh2 starved to death
+[18:55:41] [User Authenticator #21/INFO]: UUID of player HansChristianA is d51aee21-abff-3391-a5d2-6bb565a615a0
+[18:55:41] [Server thread/INFO]: HansChristianA joined the game
+[18:55:41] [Server thread/INFO]: HansChristianA[/212.106.52.131:58765] logged in with entity id 71549 at ([world]-35.18145426574149, 63.0, -233.55596503475482)
+[18:55:53] [Async Chat Thread - #2/INFO]: <HE_bruh2> это ты?
+[18:55:54] [Async Chat Thread - #2/INFO]: <HansChristianA> где ыя
+[18:56:13] [Async Chat Thread - #2/INFO]: <HansChristianA> чо с коровами?
+[18:56:16] [Async Chat Thread - #2/INFO]: <HansChristianA> о нет
+[18:56:28] [Async Chat Thread - #2/INFO]: <HE_bruh2> всё пропало
+[18:56:32] [Async Chat Thread - #2/INFO]: <HE_bruh2> надо откатиться
+[18:56:46] [Async Chat Thread - #2/INFO]: <HansChristianA> в логах есть логи чата?
+[18:56:53] [Async Chat Thread - #2/INFO]: <HE_bruh2> нет
+[18:57:00] [Async Chat Thread - #2/INFO]: <HansChristianA> жаль
+[18:57:11] [Async Chat Thread - #2/INFO]: <HansChristianA> я нашёл яйцо дракона
+[18:57:38] [Async Chat Thread - #2/INFO]: <HansChristianA> было бы забавно конечно откатиться прямо на этом сервере, чтобы они офигели, когда зашли
+[18:57:55] [Async Chat Thread - #2/INFO]: <HansChristianA> но хз можно ли это через гитхаб сделать
+[18:57:58] [Async Chat Thread - #2/INFO]: <HansChristianA> а
+[18:58:08] [Async Chat Thread - #2/INFO]: <HansChristianA> ну можно по идее запушить туда наверное
+[18:59:27] [Async Chat Thread - #3/INFO]: <HE_bruh2> они сломали всё 5-го
+[18:59:35] [Async Chat Thread - #3/INFO]: <HE_bruh2> надо вернуться на 4-е января
+[19:00:14] [Async Chat Thread - #3/INFO]: <HansChristianA> ок
+[19:00:31] [Server thread/INFO]: HansChristianA lost connection: Disconnected
+[19:00:31] [Server thread/INFO]: HansChristianA left the game
+[19:00:38] [Server thread/INFO]: HE_bruh2 has reached the goal [The Next Generation]
+[19:00:49] [Server thread/INFO]: HE_bruh2 lost connection: Disconnected
+[19:00:49] [Server thread/INFO]: HE_bruh2 left the game
